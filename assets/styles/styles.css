@@ -119,7 +119,7 @@ body{
     font-size: 30px;
     
 }
-.about-title{
+.about-title,.explore-room-title{
     display: flex;
     align-items: center;
     justify-content: center;
@@ -166,4 +166,30 @@ body{
 .lowerdetails{
     display: flex;
     justify-content: space-evenly;
+}
+
+.room-details{
+    background-color: #ebebeb;
+}
+
+
+.exploreroom h3 {
+    color: #666;
+    display: flex;
+    justify-content: center;
+}
+
+.rooms{
+    display: flex;
+    gap:30px;
+    background-color: #f2f2f2;
+    justify-content: center;
+}
+
+.room-text{
+    justify-items: center;
+    list-style-type: none;
+} 
+.price{
+    color:#757575;
 }
