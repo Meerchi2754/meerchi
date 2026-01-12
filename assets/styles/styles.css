@@ -118,7 +118,10 @@ body{
 
 .history-text{
   padding-left: 100px;
+  padding-top: 10px;
 }
+
+
 .history-text  h2{
     color: #4a4949;
     padding-top: 1px;
@@ -217,6 +220,7 @@ body{
     background-repeat: no-repeat;
     background-position: center;
     border-radius: 20px;
+    /* border*/
 }
  
 
